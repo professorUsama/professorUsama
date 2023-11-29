@@ -5,7 +5,7 @@ I'm a passionate backend engineer specializing in JavaScript (Node.js). With a s
 <h2>🔧 Technologies & Tools</h2>
 
 <ul>
-  <li>
+  <li><strong>Languages:</strong>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
