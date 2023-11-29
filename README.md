@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Usama Amjid]
+# Hi there! 👋 I'm Usama Amjid
 
 I'm a passionate backend engineer specializing in JavaScript (Node.js). With a strong foundation in backend development, I enjoy solving complex problems and building scalable solutions. Here's a glimpse of what I bring to the table:
 
