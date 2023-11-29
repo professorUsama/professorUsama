@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Usama Amjid]
 
-<!--
-**professorUsama/professorUsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend engineer specializing in JavaScript (Node.js). With a strong foundation in backend development, I enjoy solving complex problems and building scalable solutions. Here's a glimpse of what I bring to the table:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (Node.js), TypeScript, Python,
+- **Databases:** Sqlite, MongoDB, Redis
+- **Frameworks:** Express.js
+- **Version Control:** Git
+- **Tools:** [Any specific tools you regularly use]
+
+## 🚀 What I'm currently working on
+I'm currently working on TechMetascore, an e-commerce project that's all about tech. We gather info on users, products, reviews, and brands from different websites. The cool part? We've got a Twitter-like feed where user can scroll through real people's reviews and comments. It's a fun way to connect with others who love tech just like you. Join us as we make shopping for tech stuff way more exciting! 🚀🌟
+
+## 🌱 What I'm learning
+
+I'm currently expanding my skills in Node.js by diving into advanced web scraping techniques. It's fascinating to explore ways to gather data efficiently from different websites. Additionally, I'm delving into the world of machine learning using JavaScript in Node.js. Learning how to apply ML concepts in a server-side environment adds a new dimension to my skill set. Exciting times ahead as I continue to grow my expertise in these areas! 🚀📚
+
+## 💬 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/professor-usama/
+- Twitter: https://twitter.com/professor_usama
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=professorUsama&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/professorUsama)
+
+Feel free to explore my repositories and projects. If you find anything interesting or have any suggestions, I'm always open to collaboration and feedback!
+
+Thanks for stopping by! 😊
