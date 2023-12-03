@@ -12,6 +12,8 @@
   </ul>
 </div>
 
+
+
 <!--Intro start-->
 - 🔭 I’m currently working on **TypeScript, Node.js, Express.js, MongoDB, Redis**
 
@@ -41,6 +43,9 @@
 </table>
 <!--- stats (end) -->
 
+
+
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -48,3 +53,30 @@
     </a>
 </div>
 <!--- trophy (start) -->
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,cpp,git,github,linux,md,mongodb,mysql,firebase,js,ts,nodejs,express,postman,py,vscode&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
