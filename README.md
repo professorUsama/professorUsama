@@ -22,6 +22,25 @@
 - 💬 Ask me about **JavaScript, TypeScript, Nodejs, MongoDB**
 <!--Intro end-->
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary style="text-align: center;"><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,cpp,git,github,linux,md,mongodb,mysql,firebase,js,ts,nodejs,express,postman,hoppscotch,py,vscode&perline=14" />
+  </a>
+</p>
+
+
+
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -56,21 +75,6 @@
 
 </p>        
 <!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary style="text-align: center;"><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,cpp,git,github,linux,md,mongodb,mysql,firebase,js,ts,nodejs,express,postman,py,vscode&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
